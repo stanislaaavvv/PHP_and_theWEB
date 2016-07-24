@@ -1,0 +1,10 @@
+body {
+    font-family: -webkit-pictograph;
+    color:red;
+    font-weight: bold;
+}
+
+span {
+    color:black;
+    display: block;
+}

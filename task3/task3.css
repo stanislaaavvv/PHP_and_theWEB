@@ -1,0 +1,60 @@
+
+#container{
+    font-family: monospace;
+    color : firebrick;
+    font-weight: bold;
+    background-color: #BAD6E0;
+}
+
+input {
+    width: 5em;
+    display: block;
+    border-radius: 2em;
+    border-color: firebrick;
+    outline:none;
+    margin-bottom: 0.3em;
+    text-align: center;
+    background-color: #BAD6E0;
+    margin-top:0.3em;
+    color : firebrick;
+}
+
+select {
+    border-radius: 2em;
+    border-color: firebrick;
+    outline:none;
+    margin-bottom: 0.3em;
+    font-family: monospace;
+    color : firebrick;
+    background-color: #BAD6E0;
+}
+
+#result {
+    display: block;
+    border: 1px solid;
+    width: 120px;
+    border-radius: 2em;
+    border-color: firebrick;
+    outline: none;
+    text-align: center;
+    margin-top:0.3em;
+}
+
+button {
+    border: none;
+    font-family: monospace;
+    color : firebrick;
+    font-weight: bold;
+    background: transparent;
+}
+
+.errors {
+    color: red;
+    font-weight: 100;
+    font-style: italic;
+}
+
+.result {
+    color: black;
+    font-size: small;
+}

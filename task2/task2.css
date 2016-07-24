@@ -1,0 +1,35 @@
+form {
+    text-align: center;
+    font-family: FreeSans;
+    background-color: #ecefec;
+    color: #77643e;
+}
+
+input,button {
+    display: block;
+    border-radius: 2em;
+    border-color: cyan;
+    margin: 0.2em auto;
+    outline: none;
+    text-align: center;
+    color: #77643e;
+
+}
+button {
+    cursor: pointer;
+}
+
+p {
+    color: red;
+    font-weight: bold;
+    font-size: 0.5em;
+    width: 40%;
+    margin: 0 auto;
+}
+
+blockquote {
+    color:black;
+    font-size: 0.5em;
+    width: 40%;
+    margin:0 auto;
+}

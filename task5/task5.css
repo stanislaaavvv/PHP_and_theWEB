@@ -1,0 +1,18 @@
+input {
+    display: block;
+}
+
+input , button {
+    border-radius: 20%;
+    font-family: -webkit-pictograph;
+    text-align: center;
+    outline: none;
+}
+
+#container {
+    font-family: -webkit-pictograph;
+}
+
+block {
+    display: block;
+}

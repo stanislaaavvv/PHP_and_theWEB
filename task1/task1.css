@@ -1,0 +1,50 @@
+
+#container {
+    display: block;
+    overflow: hidden;
+    background-color: #afaf25;
+    border: 3px dotted white;
+    max-width: 275px;
+}
+
+input , select ,p {
+    display: inline-block;
+    float:left;
+    margin-right: 0.2em;
+    color: #285f28;
+    font-family: FreeSerif;
+    outline: none;
+    font-weight: bold;
+    text-align: center;
+}
+
+input {
+    border-radius: 2em;
+    border-color: #1cd81c;
+    width: 5em;
+
+}
+
+select {
+    border-radius: 1em;
+    border-width: 0.1em;
+    border-color: #1cd81c;
+}
+
+button {
+    text-decoration: none;
+    border: none;
+    background-color: #afaf25;
+}
+
+#result {
+    position: fixed;
+    top: 3px;
+    left: 205px;
+}
+#error {
+    font-family: FreeSerif;
+    font-weight: bold;
+    color: red;
+
+}

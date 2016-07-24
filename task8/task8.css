@@ -1,0 +1,15 @@
+input {
+    display: none;
+}
+
+body {
+    font-family: monospace;
+    font-weight: bold;
+}
+
+button {
+    border-radius: 20%;
+    font-family: monospace;
+    font-weight: bold;
+    outline: none;
+}
